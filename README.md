@@ -9,3 +9,8 @@ This template includes [Jason CLI](http://jason-lang.github.io/jason/jason-cli/r
 ./jason app add-agent karlos
 ````
 
+run with
+
+````
+./gradlew run
+````
